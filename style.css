@@ -4,6 +4,7 @@
 }
 body {
   /* background-image: url("./img/netflix-background-image.png"); */
+  color: #ffffff;
 }
 #container {
   max-width: 1240px;
@@ -18,4 +19,21 @@ body {
   font-size: 50px;
   letter-spacing: 0.05em;
   color: #ffffff;
+}
+span {
+  color: #ff0000;
+}
+#description {
+  font-family: "Sorts Mill Goudy", serif;
+}
+#header {
+  text-align: center;
+}
+#survey-form-container {
+  width: 500px;
+  height: 800px;
+  background-color: rgba(0, 0, 0, 0.8);
+  margin: auto;
+  padding: 30px 40px;
+  margin-bottom: 30px;
 }
